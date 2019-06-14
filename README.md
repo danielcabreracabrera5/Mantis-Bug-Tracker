@@ -58,7 +58,7 @@ La primera vez, tienes que entrar con la cuenta admin por defecto. (Usuario: Adm
 
 La interfaz de la aplicación es muy intuitiva, aunque muy completa. Solo señalaré algunas pestañas que me han parecido muy interesantes
 
-![imagen](images/5 .jpg)
+![imagen](images/5.jpg)
 
 Se pueden agregar usuarios nuevos y asignarle, entre otros valores, su nivel de acceso.
 
