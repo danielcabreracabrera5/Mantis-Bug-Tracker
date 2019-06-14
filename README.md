@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mantis-Bug-Tracker
 ## Guía Básica de Herramienta Mantis Bug Tracker
 
@@ -23,7 +22,7 @@ Esta aplicación permite la creación de diversas cuentas de usuario desde las c
 - Obtener estadísticas de empleo de tiempo y de estado del servicio
  
 
-*** Los requisitos son muy modestos y  permite la carga de plugins programados que añaden ciertas funcionalidades extra.***
+***Los requisitos son muy modestos y  permite la carga de plugins programados que añaden ciertas funcionalidades extra.***
 
 ### Requisitos mínimos:
 
@@ -79,7 +78,3 @@ En esa pestaña, se podrá ver un detallado resumen sobre las incidencias, tales
 ![imagen](images/10.jpg)
 
 En resumen, Mantis Bug Tracker es un gestor de incidencias muy completo, gratuito y muy intuitivo. Muy recomendable para un equipo de trabajo.
-=======
-# Mantis-Bug-Tracker (Sistema de Gestión de Incidencias)
-Guía Básica de Instalación y Principales Funciones: 
->>>>>>> 7c5532d59a48510a90d6dd909404498284ce3431
