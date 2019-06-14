@@ -1,6 +1,8 @@
 # Mantis-Bug-Tracker
 ## Guía Básica de Herramienta Mantis Bug Tracker
 
+![imagen](images/0.jpg)
+
 Mantis Bug Tracker es una aplicación OpenSource realizada con php y mysql que destaca por su facilidad y flexibilidad de instalar y configurar. Esta aplicación se utiliza para testear soluciones, hacer un registro histórico de alteraciones y gestionar equipos remotamente.
 
 Esta aplicación permite la creación de diversas cuentas de usuario desde las cuales se puede informar de los bugs detectados. Se puede dividir un proyecto en varias categorías, lo cual permite hacer un seguimiento más exacto de éste. El flujo de trabajo también se puede configurar desde la propia herramienta, de forma que puede definirse quién puede causar problemas, quién puede analizarlos y quién puede atenderlos.
