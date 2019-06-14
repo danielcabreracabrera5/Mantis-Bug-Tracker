@@ -1,2 +1,2 @@
-# Mantis-Bug-Tracker
-Guía Básica de Herramienta Mantis Bug Tracker
+# Mantis-Bug-Tracker (Sistema de Gestión de Incidencias)
+Guía Básica de Instalación y Principales Funciones: 
