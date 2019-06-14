@@ -22,7 +22,11 @@ Esta aplicación permite la creación de diversas cuentas de usuario desde las c
 - Obtener estadísticas de empleo de tiempo y de estado del servicio
  
 
+<<<<<<< HEAD
 ***Los requisitos son muy modestos y  permite la carga de plugins programados que añaden ciertas funcionalidades extra.***
+=======
+*** Los requisitos son muy modestos y  permite la carga de plugins programados que añaden ciertas funcionalidades extra.***
+>>>>>>> 5e699a6d97b992b62adb32dfec57390e41249421
 
 ### Requisitos mínimos:
 
