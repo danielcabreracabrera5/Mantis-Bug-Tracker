@@ -42,42 +42,75 @@ Insertas la dirección de tu sitio en el navegador y comenzamos la instalación 
 
 Primero realiza un chequeo de versiones, y demás.
 
-![imagen](images/1.jpg)
+
+![imagen](images/1.jpg) 
+
 
 Si está todo correcto, configuramos los parámetros básicos de la base de datos.
 
+
 ![imagen](images/2.jpg)
+
+
 
 Seguidamente nos sale el mensaje de instalación correcta.
 
+
+
 ![imagen](images/3.jpg)
+
+
 
 La primera vez, tienes que entrar con la cuenta admin por defecto. (Usuario: Administrator Password: root). Una vez dentro, puedes cambiar esos valores.
 
 ![imagen](images/4.jpg)
 
+
+
 La interfaz de la aplicación es muy intuitiva, aunque muy completa. Solo señalaré algunas pestañas que me han parecido muy interesantes
+
+
 
 ![imagen](images/5.jpg)
 
+
+
 Se pueden agregar usuarios nuevos y asignarle, entre otros valores, su nivel de acceso.
+
 
 ![imagen](images/6.jpg)
 
+
+
 Permite crear proyectos, y configurar su estado  (abierto, encaminado, testeado, devuelto, cerrado, reabierto…)
+
+
 
 ![imagen](images/7.jpg)
 
+
+
 Puedes asignar permisos a los usuarios, dependiendo de su nivel de acceso.
+
+
 
 ![imagen](images/8.jpg)
 
+
+
 En esta pestaña se pueden reportar las incidencias, e incluso subir archivos a la nube.
+
+
 
 ![imagen](images/9.jpg)
 
+
+
 En esa pestaña, se podrá ver un detallado resumen sobre las incidencias, tales, como el tiempo dedicado, o usuarios más eficaces, incluso, estadísticas.
 
+
+
 ![imagen](images/10.jpg)
+
 
 En resumen, Mantis Bug Tracker es un gestor de incidencias muy completo, gratuito y muy intuitivo. Muy recomendable para un equipo de trabajo.
