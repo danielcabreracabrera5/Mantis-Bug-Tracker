@@ -78,3 +78,7 @@ En esa pestaña, se podrá ver un detallado resumen sobre las incidencias, tales
 ![imagen](images/10.jpg)
 
 En resumen, Mantis Bug Tracker es un gestor de incidencias muy completo, gratuito y muy intuitivo. Muy recomendable para un equipo de trabajo.
+=======
+# Mantis-Bug-Tracker (Sistema de Gestión de Incidencias)
+Guía Básica de Instalación y Principales Funciones: 
+>>>>>>> 7c5532d59a48510a90d6dd909404498284ce3431
