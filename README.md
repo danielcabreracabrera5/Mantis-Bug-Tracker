@@ -1,4 +1,4 @@
-# Mantis-Bug-Tracker (sistema de gestión de incidencias )
+# Mantis-Bug-Tracker (Sistema de Gestión de Incidencias )
 ## Guía Básica de Herramienta Mantis Bug Tracker
 
 ![imagen](images/0.jpg)
